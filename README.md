@@ -14,7 +14,6 @@ My projects are available at [my-profile-host.web.app](https://my-profile-host.w
 - [Instagram](https://www.instagram.com/isharanilangani?igsh=MzNlNGNkZWQ4Mg==)
 
 ## 🛠 Languages and Tools
-![Android](https://img.shields.io/badge/-Android-333333?style=flat&logo=android)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
