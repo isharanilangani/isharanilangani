@@ -3,7 +3,7 @@
 👨‍💻 Passionate full-stack software developer turning ideas into functional and elegant solutions. I enjoy working with a variety of technologies and frameworks to build web and mobile applications.
 
 ## 🌟 Projects
-My projects are available at [my-profile-host.web.app](https://my-profile-host.web.app/)
+My projects are available at [my-profile.web.app](https://comfy-medovik-1275d9.netlify.app)
 
 ## 📫 How to reach me
 - Email: [isharaecc1998@gmail.com](mailto:isharaecc1998@gmail.com)
